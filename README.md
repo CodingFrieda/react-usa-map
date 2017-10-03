@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/travis/gabidavila/react-usa-map.svg?style=flat-square)](https://travis-ci.org/gabidavila/react-usa-map)
 # react-usa-map | A simple SVG USA map rendering on React
 
 This is an alternate version for you that just want a simple customizable map on HTML. This maps shows states delimitations including DC, Hawaii and Alaska. D3 is not needed.
